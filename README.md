@@ -23,5 +23,5 @@ The datasets are from [GCN-Align](https://github.com/1049451037/GCN-Align), [JAP
 
 ## Acknowledgement
 
-We refer to the codes of these repos: keras-gat(https://github.com/danielegrattarola/keras-gat), GCN-Align(https://github.com/1049451037/GCN-Align). 
+We refer to the codes of these repos: [keras-gat](https://github.com/danielegrattarola/keras-gat), [GCN-Align](https://github.com/1049451037/GCN-Align). 
 Thanks for their great contributions!
